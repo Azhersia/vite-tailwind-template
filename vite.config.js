@@ -1,3 +1,3 @@
 export default {
-  base: '//', // repo name t.ex "/Prog22/" elr "/ratte/"
+  base: '/vite-tailwind-template/', // repo name t.ex "/Prog22/" elr "/ratte/"
 }
